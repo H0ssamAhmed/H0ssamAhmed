@@ -6,8 +6,6 @@
     <a href="https://twitter.com/hossamofficia1" target="_blank"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
     <a href="https://www.instagram.com/hossam1__ahmedd/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
   </p>
-  
-  <img src="/profile-img.png" align="right" width="25%"/>
 
 I’m Front-End developer. passionate about transforming static web design into code and interactive userface
 
