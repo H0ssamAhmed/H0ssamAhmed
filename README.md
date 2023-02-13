@@ -12,11 +12,14 @@
   I’m Front-End developer. passionate about transforming static web design into code and interactive userface
   
   technologies I enjoy working with include:
-    # HTML
-    # CSS  
-    # Javascript
-    # Bootstrap
-    
-- 🔭 I'm Software Engineer Intern [@albonyanalmarsos]((https://www.albonyanalmarsos.org/)) in Cairo, Egypt
-
+  <ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>Javascript</li>
+  <li>Bootstrap</li>
+  </ul>
+  
 - 🌱 I’m currently learning (ReactJS)
+
+- 🔭 I'm Software Engineer Intern [@albonyanalmarsos](https://www.albonyanalmarsos.org/) in Cairo, Egypt
+
