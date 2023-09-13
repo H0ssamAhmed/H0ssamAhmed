@@ -18,8 +18,8 @@ technologies I enjoy working with include:
   <li>CSS</li>
   <li>Javascript</li>
   <li>Bootstrap</li>
+  <li>ReactJS</li>
   </ul>
   
-- 🌱 I’m currently learning (ReactJS)
 
-- 🔭 I'm Software Engineer Intern [@albonyanalmarsos](https://www.albonyanalmarsos.org/) in Cairo, Egypt
+- 🔭 I'm Freelance Software  Developer
