@@ -24,4 +24,4 @@
 </p>
   
 
-- 🔭 I'm Freelance Software  Developer
+# I'm Freelance Software  Developer
