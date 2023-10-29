@@ -2,6 +2,8 @@
 
 <h1 align="center">Hi there 👋, I'm Hossam Ahmed</h1>
 <h2 align="center">A passionate Front-End Developer from Egypt</h2>
+<h2 align="center">🚀 Transforming Designs into Interactive Experiences</h2>
+
 
 <p align="center">
     <a href="https://www.linkedin.com/in/hossam-ahmed-1891bb204/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"</a>
@@ -11,15 +13,15 @@
 
 I’m Front-End developer. passionate about transforming static web design into code and interactive userface
 
-technologies I enjoy working with include:
+## 🛠️ Technologies I Love Working With
 
-  <ul>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>Javascript</li>
-  <li>Bootstrap</li>
-  <li>ReactJS</li>
-  </ul>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-%23E44D26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/ReactJS-%2361DAFB?style=for-the-badge&logo=react&logoColor=black">
+</p>
   
 
 - 🔭 I'm Freelance Software  Developer
