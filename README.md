@@ -1,7 +1,7 @@
 
 
-<h1 align="center">Hi there 👋, I'm Hossam Ahmed,Freelance Software Developer from Egypt</h1>
-<h2 align="center">passionated in Front-End</h2>
+<h1 align="center">Hi there 👋, I'm Hossam Ahmed</h1>
+<h2 align="center">Freelance Software Developer from Egypt passionated in Front-End</h2>
 <h2 align="center">🚀 Transforming Designs into Interactive Experiences</h2>
 
 
