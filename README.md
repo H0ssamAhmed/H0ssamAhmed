@@ -11,7 +11,7 @@
     <a href="https://www.instagram.com/hossam1__ahmedd/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
   </p>
 
-<h2 align="start">I’m Front-End developer. passionate about transforming static web design into code and interactive userface 🚀</h2>
+<h2 align="start">I’m Front-End developer. passionate about transforming static web design into code and interactive user-face 🚀</h2>
 
 ## 🛠️ Technologies I Love Working With
 
@@ -23,5 +23,3 @@
   <img src="https://img.shields.io/badge/ReactJS-%2361DAFB?style=for-the-badge&logo=react&logoColor=black">
 </p>
   
-
-# I'm Freelance Software  Developer
