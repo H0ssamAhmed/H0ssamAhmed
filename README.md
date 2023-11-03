@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Bootstrap-%23563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/ReactJS-%2361DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/GitHub-YourGitHubUsername-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
+  <img src="https://img.shields.io/badge/GitHub-H0ssamAhmed-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
   <img src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
 
