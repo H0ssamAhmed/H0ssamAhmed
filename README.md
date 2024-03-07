@@ -11,7 +11,7 @@
   </p>
 </h1>
 
-<h3 align="start">I’m Front-End developer, passionate about transforming static web design into code and interactive user-face 🚀</h3>
+<h3 align="start">I’m a Front-End developer, passionate about transforming static web design into code and interactive user-intertface 🚀</h3>
 
 <br>
 
@@ -28,4 +28,5 @@
   <img src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">  
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/Tailwind_CSS-%231a202c?style=for-the-badge&logo=tailwind-css&logoColor=38b2ac">
-</p>
+
+## Check my portfolio [Portfolio](https://hossam-ahmed-portfolio.vercel.app/)
