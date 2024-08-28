@@ -5,6 +5,14 @@
 <h2 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=009688&width=635&lines=Freelance+Software+Developer+from+Egypt;Passionate+about+Front-End+Development&size=30" alt="Typing SVG" />
 </h2>
+
+<h3 align="center">
+  <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=5000&pause=500&color=ff9800&width=1100&lines=I’m+a+Front-End+developer%2C+passionate+about+transforming+static+web+design+into+code+and+interactive+user-interface+%F0%9F%9A%80" alt="Typing SVG"/>
+</h3>
+
+<h3 align="center">
+  <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=5000&color=&width=1100&lines=passionate+about+transforming+static+design+into+interactive+user-interface" alt="Typing SVG"/>
+</h3>
 <h1 align="center">Keep in touch
 <br/>
 <br/>
@@ -16,14 +24,6 @@
   </a>
 </h1>
  
-<h3 align="center">
-  <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=5000&pause=500&color=ff9800&width=1100&lines=I’m+a+Front-End+developer%2C+passionate+about+transforming+static+web+design+into+code+and+interactive+user-interface+%F0%9F%9A%80" alt="Typing SVG"/>
-</h3>
-
-<h3 align="center">
-  <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=5000&color=&width=1100&lines=passionate+about+transforming+static+design+into+interactive+user-interface" alt="Typing SVG"/>
-</h3>
-
 <h2 align="center">🛠️ Technologies I Love Working With</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-%23E44D26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
@@ -46,3 +46,4 @@
   <img src="https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/SQL-%2300C7B7?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
 </p>
+
