@@ -18,7 +18,7 @@
 <br/>
   <a href="https://www.linkedin.com/in/hossam-ahmed-1891bb204/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" width="100">
-  </a
+  </a>
   <a href="https://hossam-ahmed-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/portfolio-%23000000?style=flat&logo=web&logoColor=white&labelColor=009688" alt="Portfolio" width="100">
   </a>
