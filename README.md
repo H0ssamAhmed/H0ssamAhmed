@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 </h1>
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=009688&width=635&lines=Freelance+Software+Developer+from+Egypt;Passionate+about+Front-End+Development&size=30" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=009688&width=635&lines=Freelance+Software+Developer+from+ 🇪🇬;Passionate+about+Front-End+Development&size=30" alt="Typing SVG" />
 </h2>
 
 <h3 align="center">
