@@ -3,19 +3,18 @@
 
 - 🌱 I’m currently learning **Design patterns, algorithms, and data structure**
 
-- 👨‍💻 All of my projects are available at [hossam-ahmed-portfolio](https://hossam-ahmed-portfolio.vercel.app)
-
-- 💬 Ask me about **React.js Next.js**
+- 👨‍💻 All of my projects are available at [**hossam-ahmed-portfolio**](https://hossam-ahmed-portfolio.vercel.app)
+- 💬 Ask me about <a href="https://react.dev">**React.js**</a> and <a href="https://nextjs.org">**Next.js**</a>
 
 - 📫 How to reach me **hossamahmed8862@gmail.com**
 
-- 📄 Know about my experiences [linkedin/dev-hossam-ahmed](https://www.linkedin.com/in/dev-hossam-ahmed/overlay/1745658623941/single-media-viewer/?profileId=ACoAADP_0jkBdeiwJ5GL1xxSBTisi4Ujm3vRRXU)
+- 📄 Know about my experiences [**linkedin/dev-hossam-ahmed**](https://www.linkedin.com/in/dev-hossam-ahmed/overlay/1745658623941/single-media-viewer/?profileId=ACoAADP_0jkBdeiwJ5GL1xxSBTisi4Ujm3vRRXU)
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dev-hossam-ahmed" target="blank">
+<a href="https://www.linkedin.com/in/dev-hossam-ahmed" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dev-hossam-ahmed" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/hossam.ahmed.479466/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/hossam.ahmed.479466/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/hossam.ahmed.479466/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/hossam.ahmed.479466/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -59,4 +58,4 @@
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=h0ssamahmed&show_icons=true&locale=en&layout=compact" alt="h0ssamahmed" />
 
-</p> 
+</p>
